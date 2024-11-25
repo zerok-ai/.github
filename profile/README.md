@@ -1,3 +1,5 @@
+![ZeroK](./zerok-logo.png)
+
 ## 🔍 Investigate Production Incidents 10X faster using AI 
 ZeroK radically simplifies the time consuming and stressful investigation workflow, using AI agents
 
@@ -23,6 +25,7 @@ Integrate with Observability tools such as Prometheus, Open Telemetry, APM provi
 ### Native collaboration workflows 🤝
 Create a custom workspace, work with other engineers, perform clean handoffs, automate postmortem generation and more.
 
+---
 
 
 <!--
